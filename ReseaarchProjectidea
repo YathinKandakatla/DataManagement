@@ -1,0 +1,47 @@
+Research Project Idea: Behavioral, Physical, and Mental Health Across U.S. States
+
+The goal of this research project is to examine relationships among behavioral
+health risks, physical health, mental and emotional health, and healthcare
+economic burden across U.S. states.
+
+The project will use multiple public health datasets from the Centers for
+Disease Control and Prevention (CDC).
+
+The first dataset is the Smoking-Attributable Mortality, Morbidity, and
+Economic Costs (SAMMEC) dataset, which provides estimates of healthcare
+expenditures attributable to cigarette smoking across U.S. locations,
+healthcare service categories, and years.
+
+The second dataset is the CDC Nutrition, Physical Activity, and Obesity –
+Behavioral Risk Factor Surveillance System dataset. It provides state-level
+measures related to obesity, physical activity, nutrition, and demographic
+characteristics.
+
+The third dataset is the CDC Behavioral Risk Factor Surveillance System
+(BRFSS) Prevalence Data. This dataset provides a wide range of health
+indicators and will be used to identify measures related to mental and
+emotional health, such as poor mental health and mental distress.
+
+The main research objective is to investigate whether states with greater
+behavioral and physical health risks also tend to experience poorer mental
+health outcomes and greater healthcare-related economic burden.
+
+Possible research questions include:
+
+1. How do obesity, physical activity, and mental-health indicators vary
+   across U.S. states?
+
+2. Are states with higher obesity prevalence also associated with poorer
+   mental or emotional health indicators?
+
+3. Are behavioral and physical health indicators associated with differences
+   in healthcare economic burden across states?
+
+The project will attempt to compare or combine the datasets using common
+geographic variables such as state or location. Differences in time coverage,
+variable definitions, and data structure will need to be addressed during the
+data-cleaning and integration stages.
+
+The expected outcome is a state-level analysis that provides a broader view
+of how behavioral, physical, mental, and economic health indicators may be
+related across the United States.
